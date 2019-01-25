@@ -5,7 +5,7 @@ email: milena@bekerle.com
 description: IHRE ANSPRECHPARTNERIN FÜR IHRE PERSONALTHEMEN
 baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Milena Bekerle
 street_address: Schiessstattgasse 73
 city: Graz
 state: 

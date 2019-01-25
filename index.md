@@ -72,7 +72,7 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/Logo rt.png" alt="" /></a>
 			<h3>research team</h3>
-			<p>Für diverse Kunden: Professionalisierung des Mitarbeitendengespräches. Evaluierung der psychischen Belastung am Arbeitsplatz. Personalentwicklunsgkonzeption. Führungspotenzialanalyse. Trainingskozeption "Gesundes Führen".</p>
+			<p>Für diverse Kunden: Professionalisierung des Mitarbeitendengespräches. Evaluierung der psychischen Belastung am Arbeitsplatz. Personalentwicklungskonzeption. Führungspotenzialanalyse. Trainingskonzeption "Gesundes Führen".</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>

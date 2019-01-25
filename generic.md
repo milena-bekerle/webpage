@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über mich
-image: assets/images/MB.png
+image: assets/images/MB19 Bnl Kopie.jpg
 ---
 
 <p>Nach Abschluss meines Studiums (Diplomstudium Psychologie) an der Karl-Franzens-Universität verschlug es mich für 2 1/2 Jahre in die Unternehmensberatung. Meine Schwerpunkte lagen hierbei in den Bereichen Arbeitsstiftungen und Ältere Arbeitnehmer (Agemanagement). Aus dem Wunsch heraus, neben der externen Sicht als Beraterin auch die interne Sicht im Unternehmen kennen zu lernen fand ich in einem mittelständischen, steirischen Unternehmen zu meiner Berufung dem HR Management. Über 10 Jahre hinweg baute ich in diesem Unternehmen den Personalbereich samt all seiner Prozesse und Werkzeuge auf und aus und hatte die HR Leitung inne.</p>

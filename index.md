@@ -5,7 +5,7 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Erat lacinia</h2>
+		<h2>Meine Schwerpunkte</h2>
 	</header>
 	<div class="features">
 		<article>
@@ -42,21 +42,21 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Ipsum sed dolor</h2>
+		<h2>Projekte</h2>
 	</header>
 	<div class="posts">
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
-			<h3>Interdum aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<h3>Das Kurhaus</h3>
+			<p>Professionalisierung des HR-Bereiches.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
-			<h3>Nulla amet dolore</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<h3>Reyhani GmbH</h3>
+			<p>Recruiting Support.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>

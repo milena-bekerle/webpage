@@ -42,7 +42,7 @@ layout: default
 <!-- Section -->
 <section>
 	<header class="major">
-		<h2>Projekte</h2>
+		<h2>Zufriedene Kundinnen und Kunden</h2>
 	</header>
 	<div class="posts">
 		<article>

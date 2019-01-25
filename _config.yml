@@ -2,7 +2,7 @@
 title: Milena Bekerle Unternehmensberatung
 subtitle: Human Resource Development
 email: milena@bekerle.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+description: IHRE ANSPRECHPARTNERIN FÜR IHRE PERSONALTHEMEN
 baseurl: "/editorial-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -17,7 +17,7 @@ phone: +43 664 85 83 967
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: 
+xing_url: https://www.xing.com/profile/Milena_Bekerle/cv
 googleplus_url: 
 instagram_url: 
 linkedin_url: https://www.linkedin.com/in/mag-ª-milena-bekerle/

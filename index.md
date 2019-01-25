@@ -12,7 +12,7 @@ layout: default
 			<span class="icon fa-diamond"></span>
 			<div class="content">
 				<h3>Identität und Kultur</h3>
-				<p>Wer wir sind, bestimmt was wir wie tun. So bestimmt Ihre Idetität als Unternehmen und Ihre gelebte Unternehmenskultur, welche Menschen Sie anziehen, welche bei Ihnen bleiben und welche erfolgreich sein können.</p>
+				<p>Wer wir sind, bestimmt was wir wie tun. So bestimmt Ihre Identität als Unternehmen und Ihre gelebte Unternehmenskultur, welche Menschen Sie anziehen, welche bei Ihnen bleiben und welche erfolgreich sein können.</p>
 			</div>
 		</article>
 		<article>
@@ -26,14 +26,14 @@ layout: default
 			<span class="icon fa-rocket"></span>
 			<div class="content">
 				<h3>Aufbau und Professionalisierung Ihres HR Bereiches</h3>
-				<p>Ihre Mitarbeitenden liegen Ihnen am Herzen. Ihr Unternehmen wächst kontinuierlich. Sie finden, es ist an Zeit, Struktur in Ihre HR Prozesse zu bringen, konkrete Werkzeuge einzuführen, bestehende mit HR-Aufgaben betraute Personen zu qualifizieren und für Ihre Rolle Praxis nah zu stärken?</p>
+				<p>Ihre Mitarbeitenden liegen Ihnen am Herzen. Ihr Unternehmen wächst kontinuierlich. Sie finden, es ist an Zeit, Struktur in Ihre HR Prozesse zu bringen, konkrete Werkzeuge einzuführen, bestehende, mit HR-Aufgaben betraute Personen zu qualifizieren und für Ihre Rolle Praxis nah zu stärken? Na dann los!</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-signal"></span>
 			<div class="content">
 				<h3>HR Kennzahlen</h3>
-				<p>HR Kennzahlen helfen Ihnen, Ihren "weichen" Erfolg auch messbar zu machen. Mittels HR-Kennzahlen können Sie erkennen, wie erfolgreich Sie in pncto HR Themen unterwegs sind.</p>
+				<p>HR Kennzahlen helfen Ihnen, Ihren "weichen" Erfolg auch messbar zu machen. Mittels HR-Kennzahlen können Sie erkennen, wie erfolgreich Sie in puncto HR Themen unterwegs sind.</p>
 			</div>
 		</article>
 	</div>

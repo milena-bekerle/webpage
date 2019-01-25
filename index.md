@@ -46,7 +46,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/logo das kurhaus.jpg" alt="" /></a>
 			<h3>Das Kurhaus</h3>
 			<p>Professionalisierung des HR-Bereiches.</p>
 			<ul class="actions">
@@ -54,7 +54,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Logo Reyhani.png" alt="" /></a>
 			<h3>Reyhani GmbH</h3>
 			<p>Professionalisierung des Recruitings.</p>
 			<ul class="actions">
@@ -62,7 +62,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Logo Vinzenz Harrer GmbH.png" alt="" /></a>
 			<h3>Vinzenz Harrer GmbH</h3>
 			<p>Support Personalentwicklungskonzepte.</p>
 			<ul class="actions">
@@ -70,28 +70,13 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Logo rt.png" alt="" /></a>
 			<h3>research team</h3>
 			<p>Für diverse Kunden: Professionalisierung des Mitarbeitendengespräches. Evaluierung der psychischen Belastung am Arbeitsplatz. Personalentwicklunsgkonzeption. Führungspotenzialanalyse. Trainingskozeption "Gesundes Führen".</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic05.jpg" alt="" /></a>
-			<h3>Feugiat lorem aenean</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
-		<article>
-			<a href="#" class="image"><img src="assets/images/pic06.jpg" alt="" /></a>
-			<h3>Amet varius aliquam</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
-			</ul>
-		</article>
+		
 	</div>
 </section>

@@ -11,29 +11,29 @@ layout: default
 		<article>
 			<span class="icon fa-diamond"></span>
 			<div class="content">
-				<h3>Portitor ullamcorper</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Identität und Kultur</h3>
+				<p>Wer wir sind, bestimmt was wir wie tun. So bestimmt Ihre Idetität als Unternehmen und Ihre gelebte Unternehmenskultur, welche Menschen Sie anziehen, welche bei Ihnen bleiben und welche erfolgreich sein können.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-				<h3>Sapien veroeros</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Konzeption von Personalentwicklungsmaßnahmen</h3>
+				<p>Von der Wieder-/Einführung des Mitarbeitendengespräches, über Team- und Führungskräfteentwicklungen, der Einführung eines Karenzmanagements, eines funktionierenden Talentmanagements bis hin zur Einführung von Austrittgesprächen - Personalentwicklung kann viel mehr, als rein Schulung zu sein und unterstützt Sie und Ihr Team, erfolgreich zu sein.</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-rocket"></span>
 			<div class="content">
-				<h3>Quam lorem ipsum</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>Aufbau und Professionalisierung Ihres HR Bereiches</h3>
+				<p>Ihre Mitarbeitenden liegen Ihnen am Herzen. Ihr Unternehmen wächst kontinuierlich. Sie finden, es ist an Zeit, Struktur in Ihre HR Prozesse zu bringen, konkrete Werkzeuge einzuführen, bestehende mit HR-Aufgaben betraute Personen zu qualifizieren und für Ihre Rolle Praxis nah zu stärken?</p>
 			</div>
 		</article>
 		<article>
 			<span class="icon fa-signal"></span>
 			<div class="content">
-				<h3>Sed magna finibus</h3>
-				<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+				<h3>HR Kennzahlen</h3>
+				<p>HR Kennzahlen helfen Ihnen, Ihren "weichen" Erfolg auch messbar zu machen. Mittels HR-Kennzahlen können Sie erkennen, wie erfolgreich Sie in pncto HR Themen unterwegs sind.</p>
 			</div>
 		</article>
 	</div>
@@ -56,23 +56,23 @@ layout: default
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
 			<h3>Reyhani GmbH</h3>
-			<p>Recruiting Support.</p>
+			<p>Professionalisierung des Recruitings.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic03.jpg" alt="" /></a>
-			<h3>Tempus ullamcorper</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<h3>Vinzenz Harrer GmbH</h3>
+			<p>Support Personalentwicklungskonzepte.</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>
 		</article>
 		<article>
 			<a href="#" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
-			<h3>Sed etiam facilis</h3>
-			<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+			<h3>research team</h3>
+			<p>Für diverse Kunden: Professionalisierung des Mitarbeitendengespräches. Evaluierung der psychischen Belastung am Arbeitsplatz. Personalentwicklunsgkonzeption. Führungspotenzialanalyse. Trainingskozeption "Gesundes Führen".</p>
 			<ul class="actions">
 				<li><a href="#" class="button">More</a></li>
 			</ul>

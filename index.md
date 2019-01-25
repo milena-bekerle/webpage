@@ -18,7 +18,7 @@ layout: default
 		<article>
 			<span class="icon fa-paper-plane"></span>
 			<div class="content">
-				<h3>Konzeption von Personalentwicklungsmaßnahmen</h3>
+				<h3>Konzeption und Umsetzung von Personalentwicklungsmaßnahmen</h3>
 				<p>Von der Wieder-/Einführung des Mitarbeitendengespräches, über Team- und Führungskräfteentwicklungen, der Einführung eines Karenzmanagements, eines funktionierenden Talentmanagements bis hin zur Einführung von Austrittgesprächen - Personalentwicklung kann viel mehr, als rein Schulung zu sein und unterstützt Sie und Ihr Team, erfolgreich zu sein.</p>
 			</div>
 		</article>

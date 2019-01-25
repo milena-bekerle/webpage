@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Über mich
-image: assets/images/pic11.jpg
+image: assets/images/MB 2018 sw.png
 ---
 
 <p>Diplomstudium Psychologie an der Karl-Franzens-Universität in Graz.</p><p>2 1/2 Jahre Unternehmensberatung mit den Schwerpunkten Arbeitsstiftungen und Ältere Arbeitnehmer (Agemanagement).</p>

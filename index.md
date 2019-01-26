@@ -50,7 +50,7 @@ layout: default
 			<h3>Das Kurhaus</h3>
 			<p>Professionalisierung des HR-Bereiches.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				
 			</ul>
 		</article>
 		<article>
@@ -58,7 +58,7 @@ layout: default
 			<h3>Reyhani GmbH</h3>
 			<p>Professionalisierung des Recruitings.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				
 			</ul>
 		</article>
 		<article>
@@ -66,7 +66,7 @@ layout: default
 			<h3>Vinzenz Harrer GmbH</h3>
 			<p>Support Personalentwicklungskonzepte.</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				
 			</ul>
 		</article>
 		<article>
@@ -74,7 +74,7 @@ layout: default
 			<h3>research team</h3>
 			<p>Für diverse Kunden: Professionalisierung des Mitarbeitendengespräches. Evaluierung der psychischen Belastung am Arbeitsplatz. Personalentwicklungskonzeption. Führungspotenzialanalyse. Trainingskonzeption "Gesundes Führen".</p>
 			<ul class="actions">
-				<li><a href="#" class="button">More</a></li>
+				
 			</ul>
 		</article>
 		

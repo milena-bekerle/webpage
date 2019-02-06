@@ -54,7 +54,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/Logo Reyhani.png" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Logo-Reyhani.png" alt="" /></a>
 			<h3>Reyhani GmbH</h3>
 			<p>Professionalisierung des Recruitings.</p>
 			<ul class="actions">
@@ -62,7 +62,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/Logo Vinzenz Harrer GmbH.png" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Logo-Vinzenz-Harrer-GmbH.png" alt="" /></a>
 			<h3>Vinzenz Harrer GmbH</h3>
 			<p>Support Personalentwicklungskonzepte.</p>
 			<ul class="actions">
@@ -70,7 +70,7 @@ layout: default
 			</ul>
 		</article>
 		<article>
-			<a href="#" class="image"><img src="assets/images/Logo rt.png" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/Logo-rt.png" alt="" /></a>
 			<h3>research team</h3>
 			<p>Für diverse Kunden: Professionalisierung des Mitarbeitendengespräches. Evaluierung der psychischen Belastung am Arbeitsplatz. Personalentwicklungskonzeption. Führungspotenzialanalyse. Trainingskonzeption "Gesundes Führen".</p>
 			<ul class="actions">

@@ -1,0 +1,9 @@
+img.face {
+    max-width: 320px; float: right; margin: 0 0 10px 10px;
+}
+
+@media only screen and (max-width: 410px) {
+    img.face {
+        margin-left: 0;
+    }
+}

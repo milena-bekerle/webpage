@@ -24,5 +24,3 @@ title: Über mich
 <p>2005 - Personalentwicklungs-Lehrgang, Mag. Franz Biehal MA, Trigon Entwicklungsberatung Unternehmensberatung GmbH, Wien (5 Module á 16 Std.)</p>
 
 <hr class="major" />
-
-

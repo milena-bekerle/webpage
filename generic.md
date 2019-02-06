@@ -23,6 +23,25 @@ image: assets/images/MB19 Bnl Kopie.jpg
 <p>2006 - Coachingtools und –skills, KONAS Consulting </p>
 <p>2005 - Personalentwicklungs-Lehrgang, Mag. Franz Biehal MA, Trigon Entwicklungsberatung Unternehmensberatung GmbH, Wien (5 Module á 16 Std.)</p>
 
+Zeile 1
+
+Zeile 2
+
+**fett**
+*kursiv*
+
+<https://www.bekerle.com>
+
+## headline
+
+- list
+- list2
+- list3
+
+1) another list
+2) test
+3) test2
+
 <hr class="major" />
 
 

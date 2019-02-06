@@ -12,12 +12,11 @@
       <!-- Menu -->
         <nav id="menu">
           <header class="major">
-            <h2>Menu</h2>
+            <h2>Menü</h2>
           </header>
           <ul>
             <li><a href="{{ '' | absolute_url }}">Homepage</a></li>
-            <li><a href="{{ 'generic.html' | absolute_url }}">Über mich</a></li>
-            <li><a href="{{ 'elements.html' | absolute_url }}">Module</a></li>
+            <li><a href="{{ 'ueber.html' | absolute_url }}">Über mich</a></li>
             <li>
               <span class="opener">Kooperationen</span>
               <ul>
@@ -27,7 +26,7 @@
                 <li><a href="#">f-Personalagentur für Finanzwesen</a></li>
               </ul>
             </li>
-            <li><a href="#">Rechtliches: AGBs und Datenschutz</a></li>
+            <li><a href="{{ 'impressum.html' | absolute_url }}">Rechtliches: AGBs und Datenschutz</a></li>
             <li><a href="#">Kontakt</a></li>
             <li>
               
@@ -66,7 +65,7 @@
 
       <!-- Footer -->
         <footer id="footer">
-          <p class="copyright">&copy; {{ site.title }}. All rights reserved. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="https://andrewbanchi.ch">Andrew Banchich</a>.</p>
+          <p class="copyright">&copy; {{ site.title }}</p>
         </footer>
 
     </div>

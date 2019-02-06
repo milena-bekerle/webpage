@@ -46,7 +46,7 @@ layout: default
 	</header>
 	<div class="posts">
 		<article>
-			<a href="#" class="image"><img src="assets/images/logo das kurhaus.jpg" alt="" /></a>
+			<a href="#" class="image"><img src="assets/images/logo-das-kurhaus.jpg" alt="" /></a>
 			<h3>Das Kurhaus</h3>
 			<p>Professionalisierung des HR-Bereiches.</p>
 			<ul class="actions">

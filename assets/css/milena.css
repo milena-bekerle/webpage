@@ -11,3 +11,7 @@ img.face {
         margin-left: 0;
     }
 }
+
+.cooperations img {
+    max-width: 100%;
+}

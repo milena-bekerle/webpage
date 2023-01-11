@@ -1,11 +1,11 @@
 # Site settings
-title: Milena Bekerle Unternehmensberatung
-subtitle: Human Resource Development
-email: milena@bekerle.com
+title: Milena Kreinbucher-Bekerle Unternehmensberatung
+subtitle: PEOPLE & CULTURE CONSULTING
+email: milena@kreinbucher-bekerle.com
 description: IHRE ANSPRECHPARTNERIN FÜR IHRE PERSONALTHEMEN
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author: Milena Bekerle
+author: Milena Kreinbucher-Bekerle
 street_address: Schiessstattgasse 73
 city: Graz
 state: 
@@ -17,10 +17,10 @@ phone: +43 664 85 83 967
 500px_url:
 facebook_url:
 github_url:
-xing_url: https://www.xing.com/profile/Milena_Bekerle/cv
+xing_url: https://www.xing.com/profile/Milena_KreinbucherBekerle/cv
 googleplus_url: 
 instagram_url: 
-linkedin_url: https://www.linkedin.com/in/mag-ª-milena-bekerle/
+linkedin_url: https://www.linkedin.com/in/milenakreinbucherbekerle/
 pinterest_url:
 slack_url:
 twitter_url: 
